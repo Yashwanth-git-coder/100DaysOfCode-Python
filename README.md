@@ -1,4 +1,4 @@
-# 100DaysOfCode-Python
+# 100DaysOfCode-Python 👨‍💻
 This is a Complete 100 Days of Code in Python, with these they are many other frameworks, databases, APIs, etc...
 
 Throughout this comprehensive Journey, we cover a massive amount of tools and technologies, including:
