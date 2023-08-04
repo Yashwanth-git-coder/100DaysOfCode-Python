@@ -82,3 +82,5 @@ and much much more!
 In this day, I learned about Python variables and print statement.
 Based on this topics, I build one project :- "Band Name Generator".
 This is a great project for these topics.
+
+## Day - 02
