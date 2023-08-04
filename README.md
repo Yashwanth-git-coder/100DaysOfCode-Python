@@ -72,7 +72,9 @@ PostgreSQL
 Authentication
 
 Web Design
-<\br>
+
 Deployment with GitHub Pages, Heroku and GUnicorn
 
 and much much more!
+
+## Day - 01 
