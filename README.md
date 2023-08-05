@@ -80,16 +80,16 @@ and much much more!
 ## Day - 01 👨‍💻
 
 On this day, I learned about Python variables and print functions.
-Based on these topics, I build one project :- "Band Name Generator".
+Based on these topics, I build one project:- "Band Name Generator".
 This is a great project for these topics.
 
 ## Day - 02 👨‍💻
 
-On this day, I learned about these following topics 👇.
+On this day, I learned about the following topics 👇.
 ✨ Python data-types
 ✨ Input/Output functions
 ✨ Type conversion
 ✨ String Concatenation
 ✨ f-strings.
-Based on above topics, I build " Tip Calculator " project.
+Based on the above topics, I build the " Tip Calculator " project.
 
