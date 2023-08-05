@@ -73,14 +73,23 @@ Authentication
 
 Web Design
 
-Deployment with GitHub Pages, Heroku and GUnicorn
+Deployment with GitHub Pages, Heroku, and GUnicorn
 
 and much much more!
 
 ## Day - 01 👨‍💻
 
-In this day, I learned about Python variables and print statement.
-Based on this topics, I build one project :- "Band Name Generator".
+On this day, I learned about Python variables and print functions.
+Based on these topics, I build one project :- "Band Name Generator".
 This is a great project for these topics.
 
 ## Day - 02 👨‍💻
+
+On this day, I learned about these following topics 👇.
+✨ Python data-types
+✨ Input/Output functions
+✨ Type conversion
+✨ String Concatenation
+✨ f-strings.
+Based on above topics, I build " Tip Calculator " project.
+
