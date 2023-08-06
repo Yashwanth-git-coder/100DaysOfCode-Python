@@ -93,3 +93,12 @@ On this day, I learned about the following topics 👇.
 ✨ f-strings.
 Based on the above topics, I build the " Tip Calculator " project.
 
+## Day - 03 👨‍💻
+
+On this day, I learned about the following topics 👇.
+✨ Python Conditional Statments
+    (If, elif, else.)
+✨ ASCI code Genaretor
+Based on the above topics, I build the " Treasure Island " project.
+
+
