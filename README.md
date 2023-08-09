@@ -99,12 +99,12 @@ On this day, I learned about the following topics 👇.
 ✨ Python Conditional Statements
     (If, elif, else.)
 ✨ ASCI code Generator
-Based on the above topics, I build the " Treasure Island " project.
+I build the " Treasure Island " project based on the above topics.
 
 ## Day - 04 👨‍💻
 
 On this day, I learned about the following topics 👇.
 ✨ Randomization
-✨ operators in python
-✨ Lists (Basics)
-Based on the above topics, I build the " Rock, Paper, and Scissors " project.
+✨ operators in Python
+✨ Lists (Basics),
+I build the " Rock, Paper, and Scissors " project based on the above topics.
