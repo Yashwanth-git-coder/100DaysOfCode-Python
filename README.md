@@ -91,7 +91,7 @@ On this day, I learned about the following topics 👇.
 ✨ Type conversion
 ✨ String Concatenation
 ✨ f-strings.
-Based on the above topics, I build the " Tip Calculator " project.
+I build the " Tip Calculator " project based on the above topics.
 
 ## Day - 03 👨‍💻
 
@@ -101,4 +101,10 @@ On this day, I learned about the following topics 👇.
 ✨ ASCI code Generator
 Based on the above topics, I build the " Treasure Island " project.
 
+## Day - 04 👨‍💻
 
+On this day, I learned about the following topics 👇.
+✨ Randomization
+✨ operators in python
+✨ Lists (Basics)
+Based on the above topics, I build the " Rock, Paper, and Scissors " project.
