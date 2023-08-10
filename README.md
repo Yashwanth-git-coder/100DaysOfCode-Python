@@ -108,3 +108,12 @@ On this day, I learned about the following topics 👇.
 ✨ operators in Python
 ✨ Lists (Basics),
 I build the " Rock, Paper, and Scissors " project based on the above topics.
+
+## Day - 05 👨‍💻
+
+On this day, I learned about the following topics 👇.
+✨ More about Lists
+✨ Revision of type Conversion
+✨ Loops (Basics)
+✨ More about Random Library,
+I build the " Password Generator" project based on the above topics.
