@@ -127,4 +127,4 @@ On this day, I learned about the following topics 👇.
 ✨ Revision of Previous topics
 ✨ More about Loops
 ✨ Python Dictionary,
-I build the " Hangman " project based on the above topics.
+Based on the above topics, I build the " Hangman word death " project.
