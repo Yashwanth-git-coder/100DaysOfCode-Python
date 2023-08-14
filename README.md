@@ -117,3 +117,14 @@ On this day, I learned about the following topics 👇.
 ✨ Loops (Basics)
 ✨ More about Random Library,
 I build the " Password Generator" project based on the above topics.
+
+## Day - 06 👨‍💻 Revision Day 👨‍💻
+
+## Day - 07 👨‍💻
+
+On this day, I learned about the following topics 👇.
+✨ More about Lists
+✨ Revision of Previous topics
+✨ More about Loops
+✨ Python Dictionary,
+I build the " Hangman " project based on the above topics.
