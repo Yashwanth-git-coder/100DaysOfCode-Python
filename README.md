@@ -128,3 +128,12 @@ On this day, I learned about the following topics 👇.
 ✨ More about Loops
 ✨ Python Dictionary,
 Based on the above topics, I build the " Hangman word death " project.
+
+## Day - 08 👨‍💻
+
+On this day, I build CAESER CIPHER project 👇.
+✨ Basically, it ENCODE and DECODE the word ex:- If we give the Word - HELLO.
+ENCODE :- ifmmp 
+If we give the word - IFMMP
+DECODE :- hello.
+Security purpous we can use this project.
