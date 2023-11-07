@@ -137,3 +137,12 @@ ENCODE :- ifmmp
 If we give the word - IFMMP
 DECODE :- hello.
 Security purpous we can use this project.
+
+## Day - 09 👨‍💻
+
+On this day, I build Bidding Product project 👇.
+✨ Basically, it Bid a product for some price and also another can as well.
+ex:- If I bid a one product for some 100 Rupee and also for same product another three to four people can bid.
+And, finally It will give the product to the heighest bid person.
+It is simple and fun project.
+
