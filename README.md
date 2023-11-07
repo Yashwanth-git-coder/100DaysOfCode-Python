@@ -146,3 +146,10 @@ ex:- If I bid a one product for some 100 Rupee and also for same product another
 And, finally It will give the product to the heighest bid person.
 It is simple and fun project.
 
+## Day - 10 👨‍💻
+
+On this day, I build Calculator project 👇.
+✨ Basically, it is a simple ARTHMETIC OPARETION calculator for addition, subtraction, multiplication, division.
+
+## MINI PROJECT
+
