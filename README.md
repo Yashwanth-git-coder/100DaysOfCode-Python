@@ -77,5 +77,6 @@ Deployment with GitHub Pages, Heroku, and GUnicorn
 
 and much much more!
 
+Note : Few days left in middel that's for Revision and Practice
 
 
