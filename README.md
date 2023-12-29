@@ -77,6 +77,7 @@ Deployment with GitHub Pages, Heroku, and GUnicorn
 
 and much much more!
 
-Note : Few days left in middel that's for Revision and Practice
+Note 1 : Few days left in middel that's for Revision and Practice
 
+Note 2 : Last 20 Days Projects will be there in Python-Project Repo..
 
